@@ -1,6 +1,7 @@
 # Linux Basics
 
-**Week:** 1 · **Tools:** Linux, Ubuntu Desktop, Oracle VirtualBox, Bash, OverTheWire Bandit
+**Week:** 1 ·
+<br>**Tools:** Linux, Ubuntu Desktop, Oracle VirtualBox, Bash, OverTheWire Bandit
 
 ## Goal
 
