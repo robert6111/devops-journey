@@ -1,0 +1,13 @@
+[Unit]
+Description= dummy systemd service
+After= network.target
+
+[Service]
+Type= simple
+ExecStart=/home/rollie/Desktop/devops-journey/phase-1-foundations/02-systemd-service/dummy.sh
+
+Restart= always
+RestartSec=5
+
+[Install]
+WantedBy= mult-user.target
